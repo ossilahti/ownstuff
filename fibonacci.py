@@ -39,3 +39,4 @@ print('Program checks if the number is in the asked format and in the Fibonacci 
 input_checker()
 sequence_creation()
 last_checker()
+input('Press ENTER to exit')
